@@ -13,7 +13,7 @@
 
     
 ## Como rodar a aplicação
- * Utilize o comando java disasm code.bin
+ * Utilize o comando `java disasm code.bin`
       + É necessário ter o JVM instalado
       + A entrada do binário é feita diretamente pelo comando, portanto se desejar ler um arqivo diferente, passe o nome do arquivo substituindo o trecho "code.bin"
  
