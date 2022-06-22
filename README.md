@@ -5,11 +5,11 @@
 
 >Status do projeito: finalizado ✅
 
-<p>Este foi um projeto que realizei no terceiro periodo da faculdade de Sistemas de Informação pela UFMS, o objeitvo do projeito é "descomplilar" um binário para a
+<p>Este foi um projeto que realizei no terceiro período da faculdade de Sistemas de Informação pela UFMS, o objeitvo do projeto é "descomplilar" um binário para a
   arquitetura MARIE<p>
     
 ## Tecnologias usadas
-  + O progeto todo foi feito utilizando apenas Java 17.0.2
+  + O projeto todo foi feito utilizando apenas Java 17.0.2
 
     
 ## Como rodar a aplicação
