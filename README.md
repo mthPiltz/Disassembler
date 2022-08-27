@@ -9,7 +9,7 @@
   arquitetura MARIE<p>
     
 ## Tecnologias usadas
-  + O projeto todo foi feito utilizando apenas Java 17.0.2
+  + O projeto todo foi feito utilizando apenas Java 8
 
     
 ## Como rodar a aplicação
